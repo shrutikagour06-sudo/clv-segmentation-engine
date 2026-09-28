@@ -1,3 +1,7 @@
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://clv-segmentation-engine-uuk8ansxxdifeva9twemwg.streamlit.app/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # 🛒 Customer Value & Retention Intelligence Engine
 
 An end-to-end Machine Learning pipeline and interactive analytics dashboard designed for e-commerce customer retention, behavioral segmentation, and 1-year predictive Customer Lifetime Value (CLV) estimation.
